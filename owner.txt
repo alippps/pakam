@@ -1,0 +1,7 @@
+<?php elseif ($level == "Owner") : ?>
+            <a class="nav-link nav-item <?= $dash ?>" href="index.php?dashboard">
+              <h6><b>Dashboard</b></h6><span class="sr-only">(current)</span>
+            </a>
+            <a class="nav-link nav-item <?= $lap ?>" href="index.php?laporan">
+              <h6><b>Laporan</b></h6> <span class="sr-only">(current)</span>
+            </a>

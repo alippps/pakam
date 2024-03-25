@@ -1,0 +1,6 @@
+<div class="nav-item dropdown <?= $us ?><?= $m ?>">
+              <h6 class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown"><b>Entri Data</b></h6></a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                <a class="dropdown-item" href="index.php?user">Data User</a>
+              </div>
+            </div>
